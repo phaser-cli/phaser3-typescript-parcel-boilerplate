@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": ["ESNext"],
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": false,
+    "noImplicitAny": true,
+    "sourceMap": false,
+    "forceConsistentCasingInFileNames": true
+  }
+}
